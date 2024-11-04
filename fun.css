@@ -1,0 +1,31 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #e7e07f;
+    font-family:'Times New Roman', Times, serif;
+    color:#b14f42;
+}
+
+
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 4px solid #dd8175;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: #dd8175;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+}
